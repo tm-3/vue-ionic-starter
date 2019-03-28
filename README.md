@@ -1,5 +1,7 @@
 # vue-ionic-starter
 
+Basic setup using Vue, Storybook, and Ionic framework. Built using the Vue CLI and tweaked accordingly. 
+
 ## Project setup
 ```
 npm install
